@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Welcome to Github page.
+
+<b> About Me </b>
+<p>In 2021 I decided to enroll in Kenzie Academy's Front End Web Development program. I did so in an effort to help me transition
+out of my current warehouse job at Amazon into a career field that I actually enjoy.</P>
+
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=aaronbrels&show_icons=true)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronbrels&theme=blue-green)
 <!--
 **aaronbrels/aaronbrels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
