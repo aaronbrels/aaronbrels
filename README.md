@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Aaron Brelsford, a Front - End Web Developer.
 
 Welcome to Github page.
 
