@@ -3,8 +3,7 @@
 Welcome to Github page.
 
 <b> About Me </b>
-<p>In 2021 I decided to enroll in Kenzie Academy's Front End Web Development program. I did so in an effort to help me transition
-out of my current warehouse job at Amazon into a career field that I actually enjoy.</P>
+<p>Here you will find a collection of different projects that I have worked on or are working on. Such as past assignments for Kenzie Academy, my own personal projects, or projects that I created based on Youtube tutorials</P>
 
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=aaronbrels&show_icons=true)
 
