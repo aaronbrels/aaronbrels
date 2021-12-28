@@ -2,7 +2,7 @@
 
 Welcome to Github page.
 
-<b> About Me </b>
+<b> <h1>About Me</h1> </b>
 <p>Here you will find a collection of different projects that I have worked on or are working on. Such as past assignments for Kenzie Academy, my own personal projects, or projects that I created based on Youtube tutorials</P>
 
 <p>Currently learning <b>React<b> </p>
